@@ -12,3 +12,8 @@ document.querySelector(".s1-button").addEventListener("click", ()=>{
 	}
 	window.open(`https://nhentai.net/g/${data}`);
 });
+
+document.getElementById("corinthiansBall").addEventListener("mouseenter", ()=>{
+	alert("hi");
+	document.body.style.backgroundImage = "url('https://c4.wallpaperflare.com/wallpaper/724/91/678/brazil-corinthians-fiel-sinalizador-wallpaper-preview.jpg')";
+});

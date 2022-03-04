@@ -49,3 +49,16 @@ header{
 	color: white;
 	cursor: pointer;
 }
+
+.corinthians{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	height: 40vh;
+}
+
+.corinthians > img{
+	width: 100%;
+	height: 20vh;
+}
