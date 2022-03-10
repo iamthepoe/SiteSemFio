@@ -17,3 +17,4 @@ document.getElementById("corinthiansBall").addEventListener("mouseenter", ()=>{
 	alert("hi");
 	document.body.style.backgroundImage = "url('https://c4.wallpaperflare.com/wallpaper/724/91/678/brazil-corinthians-fiel-sinalizador-wallpaper-preview.jpg')";
 });
+
